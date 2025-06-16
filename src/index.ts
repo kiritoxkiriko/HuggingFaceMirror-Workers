@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-const proxyPrefix = 'hf-proxy';
+const proxyPrefix = 'hf';
 const UpstreamHost = 'huggingface.co';
 const UpstreamHost2 = 'hf.co';
 
